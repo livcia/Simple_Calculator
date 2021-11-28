@@ -2,6 +2,7 @@ package com.seriaoliwkacoding.kalkulator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
@@ -80,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
         liczbapierwsza *= -1; //odwrotnosc
         liczby.setText(""+liczbapierwsza); //wypisanie liczby ze zmienionym znakiem
     }
+    @SuppressLint("SetTextI18n")
     public void rownanie(View view) {
         liczbadruga = Float.parseFloat(liczby.getText().toString()); //zrzutowanie textView na float
         switch(dzialanie){
