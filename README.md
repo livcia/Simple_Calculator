@@ -1,5 +1,3 @@
-Here is the suggested content for the README file in English:
-
 ```markdown
 # Simple Calculator
 
