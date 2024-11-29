@@ -43,4 +43,3 @@ No license information provided for this project.
 
 ## Contact
 For any inquiries, please contact [livcia](https://github.com/livcia).
-```
