@@ -44,5 +44,3 @@ No license information provided for this project.
 ## Contact
 For any inquiries, please contact [livcia](https://github.com/livcia).
 ```
-
-You can copy this text to a new `README.md` file in your repository.
