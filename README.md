@@ -1,4 +1,3 @@
-```markdown
 # Simple Calculator
 
 ## Description
